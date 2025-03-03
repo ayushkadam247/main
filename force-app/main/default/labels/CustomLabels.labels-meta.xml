@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>BacktoListings</fullName>
+        <categories>MC_M_Waitlist</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>BacktoListings</shortDescription>
+        <value>Back to Listings</value>
+    </labels>
+</CustomLabels>
